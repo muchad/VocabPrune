@@ -1,2 +1,2 @@
 # VocabPrune
-Deterministic Frequency-Based Vocabulary Pruning
+Vocabulary Pruning

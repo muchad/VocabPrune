@@ -15,3 +15,11 @@ We provide three optimized checkpoints ready for deployment:
 * **[mDeBERTa-ID-20k](https://huggingface.co/muchad/mdeberta-id-20k)**: Aggressive pruning for maximum memory efficiency.
 
 🔗 **Full Collection:** [Hugging Face Collection: Pruned mDeBERTa](https://huggingface.co/collections/muchad/pruned-mdeberta)
+
+## 💻 Usage
+
+To reproduce the pruning process, run the provided notebook:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/muchad/VocabPrune/blob/main/VocabPrune.ipynb)
+
+The notebook includes steps for corpus downloading, frequency analysis, and tokenizer reconstruction.

@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+message: "If you use VocabPrune, the pruning methodology, or the released model checkpoints, please cite the following paper."
+
+title: "VocabPrune"
+abstract: "Official implementation and model checkpoints for language-aware frequency-based vocabulary pruning of multilingual Transformer models."
+
+authors:
+  - family-names: "Fuadi"
+    given-names: "Mukhlish"
+  - family-names: "Wibawa"
+    given-names: "Adhi Dharma"
+  - family-names: "Sumpeno"
+    given-names: "Surya"
+
+repository-code: "https://github.com/muchad/VocabPrune"
+url: "https://github.com/muchad/VocabPrune"
+
+keywords:
+  - "vocabulary pruning"
+  - "mDeBERTa"
+  - "Transformer"
+  - "NLP"
+  - "Indonesian NLP"
+  - "language-aware pruning"
+  - "model compression"
+
+license: "Apache-2.0"
+
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Fuadi"
+      given-names: "Mukhlish"
+    - family-names: "Wibawa"
+      given-names: "Adhi Dharma"
+    - family-names: "Sumpeno"
+      given-names: "Surya"
+  title: "Efficient Transformer Models via Language-Aware Frequency-Based Vocabulary Pruning"
+  journal: "IEEE Access"
+  volume: 14
+  start: 50993
+  end: 51006
+  year: 2026
+  doi: "10.1109/ACCESS.2026.3679735"

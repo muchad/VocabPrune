@@ -2,6 +2,7 @@
 
 [![Paper](https://img.shields.io/badge/IEEE%20Access-Published-blue.svg)](https://doi.org/10.1109/ACCESS.2026.3679735)
 [![DOI](https://img.shields.io/badge/DOI-10.1109%2FACCESS.2026.3679735-blue.svg)](https://doi.org/10.1109/ACCESS.2026.3679735)
+[![Zenodo](https://zenodo.org/badge/DOI/10.5281/zenodo.21943352.svg)](https://doi.org/10.5281/zenodo.21943352)
 [![Models](https://img.shields.io/badge/Models-HuggingFace-orange.svg)](https://huggingface.co/collections/muchad/pruned-mdeberta)
 [![License](https://img.shields.io/badge/License-Apache--2.0-green.svg)](LICENSE)
 
